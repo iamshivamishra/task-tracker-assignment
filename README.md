@@ -189,7 +189,7 @@ npm start
 ### Frontend + Backend — Vercel
 
 1. Push code to GitHub
-2. Go to [vercel.com](https://vercel.com) and import your repo
+2. Go to [vercel.com](https://vercel.com) and import my repo
 3. Add environment variable in Vercel dashboard:
    - Key: `MONGODB_URI`
    - Value: your MongoDB Atlas connection string
